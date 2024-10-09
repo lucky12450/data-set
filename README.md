@@ -1,3 +1,2 @@
 # data-set
-Image label "cdata_gt.mat" has been uploaded, but the original image "boduan40.mat" was too large to upload successfully. Please contact this email address if needed.
- 20120719830713072@lcu.edu.cn
+Image label "cdata_gt.mat" and origin image " boduan40.mat" have been uploaded, due to the large size of the original image, it was compressed and uploaded in 7 separate volumes.
